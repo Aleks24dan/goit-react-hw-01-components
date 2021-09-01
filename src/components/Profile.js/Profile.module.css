@@ -15,11 +15,6 @@
   font-size: 18px;
 }
 
-.avatar {
-  width: 170px;
-  height: 200px;
-}
-
 .stats {
   display: flex;
   justify-content: space-between;
@@ -28,4 +23,9 @@
 
 .stats_item {
   text-decoration: none;
+}
+
+.avatar {
+  width: 170px;
+  height: 200px;
 }
