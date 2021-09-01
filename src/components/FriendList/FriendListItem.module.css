@@ -1,0 +1,46 @@
+.name {
+  color: rgb(77, 2, 39);
+  font-size: 26px;
+  font-weight: 700;
+  margin-left: 20px;
+}
+
+.ava {
+  margin-left: 10px;
+  border: 2px solid rgb(36, 35, 36);
+  box-shadow: 1px 1px 8px rgb(36, 35, 36);
+  border-radius: 4px;
+  width: 80px;
+}
+
+.item {
+  display: flex;
+  background-color: rgb(241, 204, 178);
+  border: 1px solid rgb(87, 62, 104);
+  list-style: none;
+  box-shadow: 1px 1px 8px rgb(32, 32, 32);
+  width: 250px;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 4px;
+}
+
+.online {
+  background-color: green;
+  margin-top: auto;
+  margin-bottom: auto;
+  width: 30px;
+  height: 30px;
+  margin-right: 20px;
+  border-radius: 4px;
+}
+
+.offline {
+  background-color: rgb(238, 158, 158);
+  margin-top: auto;
+  margin-bottom: auto;
+  width: 30px;
+  height: 30px;
+  margin-right: 20px;
+  border-radius: 4px;
+}

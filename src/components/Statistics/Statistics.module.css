@@ -1,0 +1,26 @@
+.statistics {
+  align-items: center;
+}
+
+.statList {
+  display: flex;
+  height: 100px;
+  padding-inline-start: 0px;
+  margin: 10px;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border: 1px solid rgb(26, 25, 26);
+  box-shadow: 1px 1px 8px rgb(37, 36, 82);
+  width: 70px;
+  list-style: none;
+  align-items: center;
+  margin: 0 5px;
+}
+
+.title {
+  margin-left: 150px;
+}
